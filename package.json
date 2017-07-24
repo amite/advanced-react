@@ -1,0 +1,25 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Learning to create my own state management + ssr",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "pm2 start lib/server.js --watch"
+  },
+  "keywords": [],
+  "author": "amite <amit.erandole@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "pm2": "^2.6.1"
+  }
+}
