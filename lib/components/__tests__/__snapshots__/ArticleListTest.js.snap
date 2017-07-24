@@ -15,7 +15,6 @@ ShallowWrapper {
                 "id": "a",
               }
         }
-        store={undefined}
     />
     <Article
         article={
@@ -23,7 +22,6 @@ ShallowWrapper {
                 "id": "b",
               }
         }
-        store={undefined}
     />
 </div>,
   "nodes": Array [
@@ -34,7 +32,6 @@ ShallowWrapper {
                         "id": "a",
                       }
             }
-            store={undefined}
       />
       <Article
             article={
@@ -42,7 +39,6 @@ ShallowWrapper {
                         "id": "b",
                       }
             }
-            store={undefined}
       />
 </div>,
   ],
@@ -107,7 +103,6 @@ ShallowWrapper {
                                         "id": "a",
                                       }
                     }
-                    store={undefined}
           />
           <Article
                     article={
@@ -115,7 +110,6 @@ ShallowWrapper {
                                         "id": "b",
                                       }
                     }
-                    store={undefined}
           />
 </div>,
         "_debugID": 2,
@@ -126,7 +120,6 @@ ShallowWrapper {
                                         "id": "a",
                                       }
                     }
-                    store={undefined}
           />
           <Article
                     article={
@@ -134,7 +127,6 @@ ShallowWrapper {
                                         "id": "b",
                                       }
                     }
-                    store={undefined}
           />
 </div>,
       },
