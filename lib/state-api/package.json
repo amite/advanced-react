@@ -1,0 +1,8 @@
+{
+  "name": "state-api",
+  "version": "1.0.0",
+  "description": "Data Management for React Apps",
+  "main": "lib/index.js",
+  "author": "Amit Erandole",
+  "license": "MIT"
+}
