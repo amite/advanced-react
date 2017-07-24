@@ -10,39 +10,39 @@ ShallowWrapper {
   "length": 1,
   "node": <div>
     <Article
-        actions={undefined}
         article={
             Object {
                 "id": "a",
               }
         }
+        store={undefined}
     />
     <Article
-        actions={undefined}
         article={
             Object {
                 "id": "b",
               }
         }
+        store={undefined}
     />
 </div>,
   "nodes": Array [
     <div>
       <Article
-            actions={undefined}
             article={
                   Object {
                         "id": "a",
                       }
             }
+            store={undefined}
       />
       <Article
-            actions={undefined}
             article={
                   Object {
                         "id": "b",
                       }
             }
+            store={undefined}
       />
 </div>,
   ],
@@ -102,39 +102,39 @@ ShallowWrapper {
       "_renderedComponent": NoopInternalComponent {
         "_currentElement": <div>
           <Article
-                    actions={undefined}
                     article={
                               Object {
                                         "id": "a",
                                       }
                     }
+                    store={undefined}
           />
           <Article
-                    actions={undefined}
                     article={
                               Object {
                                         "id": "b",
                                       }
                     }
+                    store={undefined}
           />
 </div>,
         "_debugID": 2,
         "_renderedOutput": <div>
           <Article
-                    actions={undefined}
                     article={
                               Object {
                                         "id": "a",
                                       }
                     }
+                    store={undefined}
           />
           <Article
-                    actions={undefined}
                     article={
                               Object {
                                         "id": "b",
                                       }
                     }
+                    store={undefined}
           />
 </div>,
       },
